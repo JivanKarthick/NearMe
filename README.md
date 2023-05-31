@@ -208,10 +208,26 @@ The uses of Washerman's Lake in Ariyalur District are
 
 ![Screenshot from 2023-05-31 22-09-13](https://github.com/JivanKarthick/NearMe/assets/121165867/00887145-89cd-40bc-acb4-bfc72134004f)
 
+![Screenshot from 2023-05-31 22-09-40](https://github.com/JivanKarthick/NearMe/assets/121165867/222d2ffb-77b4-4ed4-83ee-f9c0639842c3)
+
+![Screenshot from 2023-05-31 22-09-54](https://github.com/JivanKarthick/NearMe/assets/121165867/07b90644-fe43-4016-903c-8ab77b218a57)
+
+
+![Screenshot from 2023-05-31 22-10-26](https://github.com/JivanKarthick/NearMe/assets/121165867/a10f5862-8430-4624-9758-f0815f0fa2cb)
+![Screenshot from 2023-05-31 22-12-57](https://github.com/JivanKarthick/NearMe/assets/121165867/a0e2721e-dc00-49e6-815f-a3ae6cc7c724)
+![Screenshot from 2023-05-31 22-13-09](https://github.com/JivanKarthick/NearMe/assets/121165867/9ff683b7-0315-4c4b-a6b8-4e4918663402)
+
+
+
+
 
 ## Server Output:
+![Screenshot from 2023-05-31 22-09-24](https://github.com/JivanKarthick/NearMe/assets/121165867/b7814fd5-958a-4610-906c-82c37c906819)
 
-## HTML VALIDATOR
+
+## HTML VALIDATOR:
+![Screenshot from 2023-05-31 22-21-20](https://github.com/JivanKarthick/NearMe/assets/121165867/7ce73ea5-6cb9-4198-8bbd-ee8f46ff222f)
+
 
 
 ## RESULT
