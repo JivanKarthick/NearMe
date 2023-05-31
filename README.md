@@ -23,7 +23,8 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
+```
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -200,7 +201,7 @@ The uses of Washerman's Lake in Ariyalur District are
 </p>
 </body>
 </html>
-'''
+```
 
 
 ## CLIENT OUTPUT:
