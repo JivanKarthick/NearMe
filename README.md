@@ -187,19 +187,15 @@ Develop a webpage(minimum of 50 words) for each location and link it to the imag
 </html>
 ```
 ## Output:
- ![Output](./out1.png)
-
-![Output](./out2.png)
-
-![Output](./out3.png)
-
-![Output](./out4.png)
-
-![Output](./out5.png)
-
-![Output](./out6.png)
+ ![out1](https://github.com/JivanKarthick/NearMe/assets/121165867/2641743b-969f-4486-895e-0e7437d3de9c)
+![out2](https://github.com/JivanKarthick/NearMe/assets/121165867/2ea00c78-bd37-49f1-877c-9331a40377b6)
+![out3](https://github.com/JivanKarthick/NearMe/assets/121165867/09384b37-afb8-4110-802d-33a2298727b4)
+![out4](https://github.com/JivanKarthick/NearMe/assets/121165867/10ab5c0e-065f-4380-a468-8410d751b32b)
+![out5](https://github.com/JivanKarthick/NearMe/assets/121165867/6a16de28-b52f-42ed-9e61-f4cdda6851d5)
+![out6](https://github.com/JivanKarthick/NearMe/assets/121165867/e619da97-62c5-4d45-a612-4a9399cc8291)
 
 ## HTML VALIDATOR
-![HTML VALIDATOR](./valid.png)
+![valid](https://github.com/JivanKarthick/NearMe/assets/121165867/ecd9391f-c646-4e15-ad63-0f31d1669eb7)
+
 ## Result:
 The program for implementing image map is executed Successfully.
